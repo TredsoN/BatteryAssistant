@@ -1,0 +1,39 @@
+name: batteryassistant
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^0.1.2
+  oktoast: ^2.1.7
+  dio: ^2.1.3
+  cookie_jar: ^1.0.0
+  flutter_nfc_reader: ^0.1.0
+  qr_flutter: ^3.0.1
+  flutter_qr_reader: ^1.0.3
+  permission_handler: ^3.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - Images/default.jpg
+    - Images/drawerbgpic.png
+    - Images/head.jpg
+    - Images/logo.png
+    - Images/mainbgpic.png
+    - Images/news1.png
+    - Images/news2.png
+    - Images/news3.png
+    - Images/news4.png
+    - Images/news5.jpg
+    - Images/title.png
+    - Images/title2.png
