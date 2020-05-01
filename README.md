@@ -1,4 +1,4 @@
-# batteryassistant
+# BatteryAssistant
 
 A battery managing and tracing platform. This is the front end using flutter.
 
