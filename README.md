@@ -1,5 +1,7 @@
 # BatteryAssistant
 
-A battery managing and tracing platform. This is the front end using flutter.
+A battery managing and tracing platform based on blockchain.
 
-Enrty for 2019 Huaqi Cup competition.
+This is the front end written in flutter.
+
+Enrty for 2019 Hua Qi Cup competition.
